@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919027701670",
+    "project_id": "oma-bayti",
+    "storage_bucket": "oma-bayti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919027701670:android:82596236960d33cd9a6167",
+        "android_client_info": {
+          "package_name": "com.omaGroup.bayti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfAyDC4dNVutt9KFqRCs45mtFL2SX8tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

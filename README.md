@@ -34,8 +34,8 @@
    - Add Firebase Firestore and Authentication to your project.
    - Download and add google-services.json (for Android) and GoogleService-Info.plist (for iOS) to your Flutter project.
      
-4.Run the app:
-  flutter run
+ 4.Run the app:
+   flutter run
 
 
 
